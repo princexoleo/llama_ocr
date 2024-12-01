@@ -50,7 +50,7 @@ print(result["text"])
 from llama_ocr import DocumentExtractor, OCRConfig
 
 config = OCRConfig(
-    model_name="llava",
+    model_name="llama3.2-vision",
     preprocess_images=True,
     optimize_for_ocr=True,
     log_level="INFO"
