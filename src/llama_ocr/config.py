@@ -7,7 +7,7 @@ from typing import Optional
 class OCRConfig:
     """Configuration class for OCR settings."""
     
-    model_name: str = "llava"
+    model_name: str = "llama3.2-vision:latest"
     preprocess_images: bool = True
     optimize_for_ocr: bool = False
     log_level: str = "INFO"
