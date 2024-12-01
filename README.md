@@ -133,4 +133,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Thanks to the Ollama team for providing the vision models
-- Built with ❤️ by Prince Leo
+- Built with ❤️ by Mazharul Islam Leon
