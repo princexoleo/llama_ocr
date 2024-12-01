@@ -15,7 +15,7 @@ setup(
     author="Prince Leo",
     author_email="princexoleo@gmail.com",
     description="A package for document extraction using Ollama Vision model",
-    long_description=open("README.md").read(),
+    long_description=open("README.md", encoding='utf-8').read(),
     long_description_content_type="text/markdown",
     url="https://github.com/princexoleo/llama_ocr",
     classifiers=[
