@@ -13,7 +13,7 @@ A Python package for document text extraction using Ollama Vision models, with a
 ## Installation
 
 ```bash
-pip install llama_ocr
+pip install llama_ocr_py
 ```
 
 Or install from source:
