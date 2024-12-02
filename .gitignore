@@ -40,3 +40,6 @@ Thumbs.db
 processed_images/
 test_images/
 *.log
+
+# PyPI credentials
+.pypirc
